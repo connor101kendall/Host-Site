@@ -2,3 +2,27 @@ body{
     margin: 0;
     text-align: center;
 }
+#mainContainer {
+    position: relative;
+    display: inline-block;
+    background: #F8F8FF;
+    border: 1px solid #F8F8FF;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.boxItem {
+    position: relative;
+    display: inline-block;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    width: 31.33333333333333%;
+    float: left;
+    padding: 20px;
+    background: #fff;
+    border-radius: 0.5em;
+    margin: 1%;
+}
+.boxItem > img {
+    width: 100%;
+    max-width: 300px;
+}
