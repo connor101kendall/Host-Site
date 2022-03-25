@@ -1,7 +1,7 @@
 body{
     text-align: center;
     background-image: url("images/index-background.jpg");
-    text-decoration-color: #D3D3D3;
+    color: #D3D3D3;
 }
 #container {
     position: relative;
