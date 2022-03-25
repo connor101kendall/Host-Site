@@ -5,8 +5,6 @@ body{
 #container {
     position: relative;
     display: inline-block;
-    left: 50%;
-    transform: translateX(-50%);
     margin-top: 20px;
     width: 30%;
     background: #FFFAF0;
