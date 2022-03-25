@@ -1,16 +1,24 @@
 body{
     text-align: center;
     background-image: url("images/index-background.jpg");
+    text-decoration-color: #454545;
 }
 #container {
     position: relative;
     display: inline-block;
     margin-top: 20px;
     width: 80%;
-    background: #FFFAF0;
+    background: #111111;
     border: 3px solid black;
     border-radius: 10px;
     padding: 10px;
     box-sizing: border-box;
     text-align: center;
+    /* Colour Palette:
+    #454545
+    #131313
+    #262626
+    #393939
+    #111111
+     */
 }
