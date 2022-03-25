@@ -6,7 +6,7 @@ body{
     position: relative;
     display: inline-block;
     background: #F8F8FF;
-    border: 1px solid #F8F8FF;
+    border: 1px solid #000000;
     padding: 20px;
     box-sizing: border-box;
 }
